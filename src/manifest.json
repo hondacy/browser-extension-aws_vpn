@@ -1,0 +1,24 @@
+{
+  "name": "AWS VPN Companion",
+  "description": "Auto-Close authentication browser window. Companion to AWS VPN Client - SAML Authentication. Bought to you by: devforops@gmail.com",
+  "author": "devforops@gmail.com",
+  "homepage_url": "https://bityad.wixsite.com/dev4ops",
+  "version": "1.0.0",
+  "host_permissions": [
+    "http://127.0.0.1/*"
+  ],
+  "permissions": [
+	  "tabs"
+  ],
+  "background": {
+    "service_worker": "service_worker.js"
+  },
+  "icons": {
+    "16": "images/icon_16.png",
+    "32": "images/icon_32.png",
+    "48": "images/icon_48.png",
+    "128": "images/icon_128.png"
+  },
+  "manifest_version": 3,
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApyYGjmMm667e+NQ7Y73NWYD4zSyxZU6ji64xYOTou6edsi82nxq32DGiTuVuETHjKqRoRTpmt4Qs/+Fwt/5O9qMl20Dd+sk0PsYiJvxXdD7Q4e3yLXnun8NMH8T8lTABEUS9Q5AvRWyKtD8fQNjPDgzWfhdCSoxooKWZigt8QNRG6hpOhdf++BXoaLgWnvJWQQGkLNYrq5eAdJrLUfOz5RW6gSHa2zqGd9aRXuMPv9eDPwMJCPV43H2edwYKTDy+bLT+7VuJgCI4rXulRoOBR+qLy63mc+1e93RE1XXEggNfuzPjMvEGI6Mg27ISUVbC8Q0/aoBS7Fsay0rSn+e4NwIDAQAB"
+}
