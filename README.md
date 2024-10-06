@@ -4,5 +4,4 @@
 To build: Inside chrome, open extension page (chrome://extensions/) and press "Pack extension".
 Config the extension source files and press "Pack Extension" button
 
-A similar extension: https://chrome.google.com/webstore/detail/aws-vpn-tab-closer/eeohkjpjmohadfbgaghdofdphnjhidfg
-
+[The Extension in the chrome web store](https://chromewebstore.google.com/detail/aws-vpn-companion/lmffeiofldbdfahndommhemembdepbbc?hl=en&pli=1)
